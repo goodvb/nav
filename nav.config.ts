@@ -26,7 +26,7 @@ const c: IConfig = {
   keywords: '影视,资源,图书,设计,实用工具,学习',
 
   // 默认主题: Light | Sim | Side | App | Shortcut
-  theme: 'Side',
+  theme: 'Sim',
 
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
